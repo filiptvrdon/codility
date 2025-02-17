@@ -1,6 +1,5 @@
-package sk.filiptvrdon;
+package sk.filiptvrdon.codility;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;

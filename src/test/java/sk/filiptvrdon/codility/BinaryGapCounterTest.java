@@ -1,4 +1,4 @@
-package sk.filiptvrdon;
+package sk.filiptvrdon.codility;
 
 import org.junit.jupiter.api.*;
 
