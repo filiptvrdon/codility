@@ -1,0 +1,42 @@
+Germany,83445000,Berlin
+United Kingdom,69551332,London
+France,66650804,Paris
+Italy,59146260,Rome
+Spain,47889958,Madrid
+Ukraine,38980376,Kyiv
+Poland,38140910,Warsaw
+Romania,20843754,Bucharest
+Netherlands,18908650,Amsterdam
+Belgium,11758603,Brussels
+Czech Republic,10656633,Prague
+Greece,10397713,Athens
+Portugal,10411834,Lisbon
+Sweden,10609240,Stockholm
+Hungary,9938844,Budapest
+Austria,9113574,Vienna
+Switzerland,8997603,Bern
+Bulgaria,6714560,Sofia
+Serbia,6689039,Belgrade
+Denmark,5623330,Copenhagen
+Finland,5474881,Helsinki
+Slovakia,5308039,Bratislava
+Norway,5623071,Oslo
+Ireland,5623330,Dublin
+Croatia,3848160,Zagreb
+Moldova,3140096,Chișinău
+Bosnia and Herzegovina,3806671,Sarajevo
+Albania,2996106,Tirana
+Lithuania,2952364,Vilnius
+North Macedonia,2771508,Skopje
+Slovenia,2117072,Ljubljana
+Latvia,1853559,Riga
+Estonia,1344232,Tallinn
+Montenegro,632729,Podgorica
+Luxembourg,680454,Luxembourg City
+Malta,545405,Valletta
+Iceland,398266,Reykjavik
+Andorra,82904,Andorra la Vella
+Monaco,38341,Monaco
+Liechtenstein,39150,Vaduz
+San Marino,33572,San Marino
+Holy See,764,Vatican City

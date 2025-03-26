@@ -6,8 +6,7 @@ import org.junit.jupiter.api.Test;
 
 class OddOccurrencesInArrayTest {
 
-  private OddOccurrencesInArray oddOccurrencesInArray= new OddOccurrencesInArray();
-  Integer[] testaArray = {1, 2, 3, 2, 3, 1, 4};
+  private final OddOccurrencesInArray oddOccurrencesInArray = new OddOccurrencesInArray();
 
   @Test
   void test() {
